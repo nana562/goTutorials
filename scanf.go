@@ -23,7 +23,7 @@ func main(){
 	//fmt.Println(msg)
 
 	
-
+*/
 	fmt.Println("Enter a number: ")
 	var x int
 	fmt.Scanf("%d", &x)
@@ -31,7 +31,7 @@ func main(){
 	fmt.Println(output)
 
 	// c = (f - 32) * 5/9
-	*/
+	
 	//Farhenheit to Celsius Converter
 	fmt.Println("Enter a temperature in Fahrenheit: ")
 	var f float64
