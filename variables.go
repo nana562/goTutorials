@@ -18,7 +18,7 @@ func main() {
 	i = 3
 	//var j int = 23
 	//k := 45
-	//fmt.Println(i)
+	fmt.Println(i)
 
 	var i int = 48
 	fmt.Printf("%v, %T\n", i, i)
