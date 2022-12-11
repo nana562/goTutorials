@@ -11,7 +11,7 @@ func main() {
 	a := 10
 	b := 7
 	var n complex64 = 1 + 3i
-	//fmt.Println(a + b)
+	fmt.Println(a + b)
 	//fmt.Println(a - b)
 	//fmt.Println(a / b)
 	//fmt.Println(a * b)
