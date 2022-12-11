@@ -9,7 +9,7 @@ func main() {
 	//var n bool = true
 	//	fmt.Printf("%v, %T\n", n, n)
 	a := 10
-	//b := 7
+	b := 7
 	//var n complex64 = 1 + 3i
 	//fmt.Println(a + b)
 	//fmt.Println(a - b)
