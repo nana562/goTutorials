@@ -24,6 +24,7 @@ func main(){
 
 	
 */
+	//Double number
 	fmt.Println("Enter a number: ")
 	var x int
 	fmt.Scanf("%d", &x)
