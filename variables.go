@@ -15,7 +15,7 @@ func main() {
 	//fmt.Println(location)
 	//fmt.Println(age)
 	//var i int
-	//i = 3
+	i = 3
 	//var j int = 23
 	//k := 45
 	//fmt.Println(i)
